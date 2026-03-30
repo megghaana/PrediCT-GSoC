@@ -1,0 +1,10 @@
+gsoc_env/
+train_env/
+train_env2/
+ts_env/
+nifti_output/
+ts_output/
+ML4SCI/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
