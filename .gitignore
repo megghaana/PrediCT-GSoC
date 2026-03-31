@@ -8,3 +8,4 @@ ML4SCI/
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+gated_nifti/
